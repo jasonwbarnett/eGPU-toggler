@@ -1,0 +1,4 @@
+PCI\VEN_1002&DEV_687F&SUBSYS_0B361002&REV_C1\A&19E1A255&0&0000000800200009
+    Name: Radeon RX Vega
+    The device has the following problem: 12
+1 matching device(s) found.
